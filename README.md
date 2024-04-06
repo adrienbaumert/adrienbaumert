@@ -30,10 +30,6 @@
     <img src="https://skillicons.dev/icons?i=php,javascript,c++,mysql,flask" /><br>
     <img src="https://skillicons.dev/icons?i=python,java,html,css,vscode,github,aws,tailwind,git,linux" />
 </div>
-
-<br/>
-<hr/>
-
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
