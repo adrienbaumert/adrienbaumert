@@ -29,8 +29,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=php,javascript,cpp,mysql,flask" /><br>
-    <img src="https://skillicons.dev/icons?i=python,java,html,css,vscode,github,aws,tailwind,git,linux" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,php" /><br>
+    <img src="https://skillicons.dev/icons?i=mysql,flask,html,css,vscode,github,aws,tailwind,git,linux" />
 </div>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
