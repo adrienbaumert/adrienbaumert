@@ -16,9 +16,11 @@
 
  </div>
 
+<div style="text-align: center;">
   <a align="center" href="https://www.linkedin.com/in/adrienbaumert" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+</div>
   
 </div>
 
