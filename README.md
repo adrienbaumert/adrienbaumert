@@ -27,7 +27,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=php,javascript,c++,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=php,javascript,cpp,mysql,flask" /><br>
     <img src="https://skillicons.dev/icons?i=python,java,html,css,vscode,github,aws,tailwind,git,linux" />
 </div>
 <div align="center">
