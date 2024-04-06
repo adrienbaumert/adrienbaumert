@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **studying for exams**
+ 🔭 I’m currently working on **not getting automated**
  
  🌱 I’m currently learning **C++, Data Structures, Polymorphism**
 
