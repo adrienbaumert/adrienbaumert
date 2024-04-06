@@ -15,8 +15,8 @@
 💬 Ask me about **Climbing 🪨**
 
  </div>
- 
-  <a href="https://www.linkedin.com/in/adrienbaumert" target="_blank">
+
+  <a align="center" href="https://www.linkedin.com/in/adrienbaumert" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   
