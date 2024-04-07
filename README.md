@@ -30,7 +30,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,php" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql,flask,html,css,vscode,github,aws,tailwind,git,linux" />
+    <img src="https://skillicons.dev/icons?i=sqlserver,flask,html,css,vscode,github,aws,tailwind,git,linux" />
 </div>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
