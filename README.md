@@ -10,7 +10,7 @@
  
  🔭 I’m currently working on **not getting automated**
  
- 🌱 I’m currently learning **C++, Data Structures, Polymorphism**
+ 🌱 I’m currently learning **Data Preprocessing, Data Visualization, Machine Learning**
 
 💬 Ask me about **Climbing 🪨**
 
